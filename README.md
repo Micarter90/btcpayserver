@@ -1,4 +1,8 @@
-# BTCPay Server
+bitcoin:bc1qk9wv75rvwlp3gcwtwl644plx4mmzfhsqaxee3g?amount=0.00295892
+
+
+
+
 
 ![BTCPay Server](BTCPayServer/wwwroot/img/btc_pay_BG_twitter.png)
 
